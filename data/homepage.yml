@@ -57,21 +57,21 @@ education:
   enable : true
   title : "Education"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "Data Visualization Tableau"
+      year : "2021"
+      academy : "University of Califonia, Davis"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
+    - title : "IBM Data Science Professional Certificate"
+      year : "2022"
       academy : "Harvard University"
       
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
+   # - title : "Higher Secondary Certificat"
+    #  year : "2000"
+     # academy : "Cardiff School"
       
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+   # - title : "Secondary School Certificate"
+    #  year : "1998"
+     # academy : "Cardiff School"
 
 # service
 service:
@@ -101,58 +101,58 @@ portfolio:
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
-testimonial:
-  enable : true
-  title : "Testimonials"
-  item:
-    - name : "Jesica Gomez"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#testimonial:
+ # enable : true
+ # title : "Testimonials"
+  #item:
+   # - name : "Jesica Gomez"
+    #  image : "images/testimonial/client-1.png"
+     # designation : "CEO, Funder"
+      #content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
       
-    - name : "Shirley Scot"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  #  - name : "Shirley Scot"
+   #   image : "images/testimonial/client-1.png"
+    #  designation : "CEO, Funder"
+     # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
       
-    - name : "Jessica Julie"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#    - name : "Jessica Julie"
+ #     image : "images/testimonial/client-1.png"
+  #    designation : "CEO, Funder"
+   #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-# client logo slider
-clients_logo_slider:
-  enable : true
-  item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
+### client logo slider
+#clients_logo_slider:
+ # enable : true
+ # item:
+  #  - logo : "images/clients-logo/client-logo-1.png"
+   #   URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "#"
+#    - logo : "images/clients-logo/client-logo-2.png"
+ #     URL : "#"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
+  #  - logo : "images/clients-logo/client-logo-3.png"
+   #   URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
+    #- logo : "images/clients-logo/client-logo-4.png"
+   #   URL : "#"
       
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
+   # - logo : "images/clients-logo/client-logo-5.png"
+    #  URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
+    #- logo : "images/clients-logo/client-logo-1.png"
+  #    URL : "#"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
+  #  - logo : "images/clients-logo/client-logo-2.png"
+   #   URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
+  #  - logo : "images/clients-logo/client-logo-3.png"
+   #   URL : "#"
       
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
+   # - logo : "images/clients-logo/client-logo-4.png"
+    #  URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
+    #- logo : "images/clients-logo/client-logo-5.png"
+    #  URL : "#"
 
 # blog
 blog:

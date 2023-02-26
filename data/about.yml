@@ -35,7 +35,7 @@ work_process:
 
 
 # client logo slider
-clients_logo_slider:
-  enable : true
-  title : "My Clients"
+#clients_logo_slider:
+ # enable : true
+  #title : "My Clients"
   # clients logo comes from 'data/homepage.yml' file
