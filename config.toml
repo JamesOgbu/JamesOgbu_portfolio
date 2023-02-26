@@ -75,7 +75,7 @@ copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothe
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif" # use png, jpg, svg or gif format
+preloader = "images/loading1.gif" # use png, jpg, svg or gif format
 
 # contact
 [params.contact]
@@ -97,17 +97,21 @@ expire_days = 2
 
 # social site
 [[params.social]]
-icon = "ti-facebook"
-URL = "#"
+icon = "ti-github"
+URL = "https://github.com/JamesOgbu"
 
 [[params.social]]
 icon = "ti-instagram"
-URL = "#"
+URL = "https://www.instagram.com/realjamesogbu/"
 
 [[params.social]]
-icon = "ti-dribbble"
-URL = "#"
+icon = "ti-youtube"
+URL = "https://www.youtube.com/channel/UChZ98e1trMoI1sjL-96_-Qw"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "#"
+URL = "https://twitter.com/RealJamesOgbu"
+
+[[params.social]]
+icon = "ti-linkedin"
+URL = "https://www.linkedin.com/in/james-ogbu-930367146/"
