@@ -4,6 +4,8 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross"
 title = "James Ogbu"
+canonifyURLs = true
+enableRobotsTXT = true
 
 # css plugins
 [[params.plugins.css]]
