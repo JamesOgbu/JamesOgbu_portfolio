@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on James Ogbu</title>
-    <link>http://example.com/contact/</link>
+    <link>https://jamesogbu.github.io/James_portfolio/contact/</link>
     <description>Recent content in Contact on James Ogbu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jamesogbu.github.io/James_portfolio/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
