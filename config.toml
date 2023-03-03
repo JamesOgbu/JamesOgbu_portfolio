@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://example.com/"
+baseURL = "https://jamesogbu.github.io/James_portfolio/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross"
